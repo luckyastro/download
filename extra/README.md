@@ -7,6 +7,8 @@
 # Redis
 [download redis.tar.gz (4MB)](https://drive.google.com/file/d/1FMR1RnLTuINmPzCvpT70vDJ0PtI7LYt-/view?usp=sharing)
 
+[download redis.required.tar.gz (19MB)](https://drive.google.com/file/d/1Pl8WsmzYuwN0q5DFMQvMQu3oMLnJjV6f/view?usp=sharing)
+
 # Postgresql 16, 17 (missing)
 [download pgsql.tar.gz (1.6MB)](https://drive.google.com/file/d/1iUYmHUaBUoV2_KrrX6c6vM_5JbV353Qs/view?usp=sharing)
 
