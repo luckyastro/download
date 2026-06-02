@@ -12,5 +12,5 @@
 # Postgresql 16, 17 (missing)
 [download pgsql.tar.gz (1.6MB)](https://drive.google.com/file/d/1iUYmHUaBUoV2_KrrX6c6vM_5JbV353Qs/view?usp=sharing)
 
-# Required RPMS for CentOS
+# Other required RPMS for CentOS
 [download required-more.tar.gz (105MB)](https://drive.google.com/file/d/1O1Y9r_XawOsb9hcGQ-dCe3NxetfJ_9XG/view?usp=sharing)
