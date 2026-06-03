@@ -2,7 +2,7 @@
 Download [python3.14.deps.tar.gz (6.3 MB)](https://github.com/luckyastro/download/tree/main/extra/python3.14.deps.tar.gz)
 
 # /usr/local/bin
-Download [tar.gz (470KB)](https://github.com/luckyastro/download/tree/main/extra/user.local.bin.tar.gz)
+Download [usr.local.bin.tar.gz (470KB)](https://github.com/luckyastro/download/tree/main/extra/usr.local.bin.tar.gz)
 
 # Postgresql 16, 17 (missing rpms)
 Download [pgsql.tar.gz (1.6MB)](https://github.com/luckyastro/download/tree/main/extra/pgsql.tar.gz)
