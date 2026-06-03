@@ -13,4 +13,4 @@ Download [redis.tar.gz (4MB)](https://drive.google.com/file/d/1FMR1RnLTuINmPzCvp
 Download [redis.required.tar.gz (19MB)](https://drive.google.com/file/d/1Pl8WsmzYuwN0q5DFMQvMQu3oMLnJjV6f/view?usp=sharing)
 
 # Other required RPMS for CentOS
-Download required[-more.tar.gz (105MB)](https://drive.google.com/file/d/1O1Y9r_XawOsb9hcGQ-dCe3NxetfJ_9XG/view?usp=sharing)
+Download [required-more.tar.gz (105MB)](https://drive.google.com/file/d/1O1Y9r_XawOsb9hcGQ-dCe3NxetfJ_9XG/view?usp=sharing)
