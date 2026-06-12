@@ -1,5 +1,4 @@
 # Please download 
 
-Download [cryptpad.tar.gz (1.3GB)](https://drive.google.com/file/d/1Cx5JgGo0E5yNMgp_aXc1LmojfOvBPBrR/view?usp=sharing)
+Download [2026.06.12.iso (3.4GB)](https://drive.google.com/file/d/1k3uFKUueICH5eRDlW2RiBqFWq2bz-4r2/view?usp=sharing)
 
-Download [required-more.tar.gz (105MB)](https://drive.google.com/file/d/1O1Y9r_XawOsb9hcGQ-dCe3NxetfJ_9XG/view?usp=sharing)
