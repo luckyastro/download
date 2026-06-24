@@ -1,6 +1,10 @@
 # Please download 
 
-Download [2026.06.12.iso (3.4GB)](https://drive.google.com/file/d/1k3uFKUueICH5eRDlW2RiBqFWq2bz-4r2/view?usp=sharing)
+Download [cryptpad.tar.gz (1.3GB)](https://drive.google.com/file/d/1gwlayDyzSIlSYN9rZZinjFZvDgvmf-Mc/view?usp=sharing)
 
-Download [2026.06.18.iso (3.9GB)](https://drive.google.com/file/d/1DBFijsMlhLtmGbfrnLgZ8Kv23gqs0dWn/view?usp=sharing)
+Download [node.tar.gz (167MB)](https://drive.google.com/file/d/1-4_nAcF9E97pR3A-5gbREovjIDcG0DPz/view?usp=sharing)
+
+Download [cuda128.tar.gz (3.4GB)](https://drive.google.com/file/d/1CbG1eYvCHhj-ICA22yEyeHqh6_Gm-fKI/view?usp=sharing)
+
+Download [RTX3060TI.rar (434MB)](https://drive.google.com/file/d/1xEoB559a-avpXt51rrrzIC4kAJ3PB_Ai/view?usp=sharing)
 
