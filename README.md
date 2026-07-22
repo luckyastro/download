@@ -25,3 +25,6 @@ Download [torch-cu128-wheels.tar.part11.rar (307MB)](https://drive.google.com/fi
 Download [torch-cu128-wheels.tar.part12.rar (307MB)](https://drive.google.com/file/d/1pv9ePjj6wE5Z-rjNR6AtXmue9j3lb2KJ/view?usp=sharing)
 
 Download [torch-cu128-wheels.tar.part13.rar (195MB)](https://drive.google.com/file/d/112O7v1JhXO-aA4jBOcFVzDc7Q0if9gQc/view?usp=sharing)
+
+Download [OnlyOfficeFont.zip (20MB)](https://drive.google.com/file/d/1RsLmbSVWFflZVuw9LcGnOCz3nw1NduTC/view?usp=sharing)
+
