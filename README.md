@@ -1,4 +1,4 @@
-# Please download (Total 19 files, 4.7 GB)
+# Please download (Total 18 files, 4.7 GB)
 
 Download [openremote.part01.rar (307MB)](https://drive.google.com/file/d/1yFhUTMo3pmtCPDd-qWLsw-MOABg1ndke/view?usp=sharing)
 
