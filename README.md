@@ -2,7 +2,7 @@
 
 Download [openremote.part01.rar (307MB)](https://drive.google.com/file/d/1yFhUTMo3pmtCPDd-qWLsw-MOABg1ndke/view?usp=sharing)
 
-Download [openremote.part02.rar (307MB)](https://drive.google.com/file/d/1hVLlUq0ZBgDLpaXTOtCXjgv9Jlnod-I1/view?usp=sharing)
+Download [openremote.part02.rar (307MB)](https://drive.google.com/file/d/1VVOdQVjtOw95rCb90-nLGZ6_gDoiES6F/view?usp=sharing)
 
 Download [openremote.part03.rar (307MB)](https://drive.google.com/file/d/1hVLlUq0ZBgDLpaXTOtCXjgv9Jlnod-I1/view?usp=sharing)
 
