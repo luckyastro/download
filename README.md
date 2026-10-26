@@ -1,4 +1,4 @@
-# Please download (Total 9 files, 29 GB)
+# Please download (Total 10 files, 30 GB)
 
 1. Download [DevTool.rar (2.6GB)](https://drive.google.com/file/d/1uMVavqQJw03wrCBwTVktGWPR7q0zpAet/view?usp=sharing)
 
@@ -17,4 +17,6 @@
 8. Download [ubuntu-24.04.4-desktop-amd64.part2.rar (2.6GB)](https://drive.google.com/file/d/1j-8RTQ89aE-ziuwfr1NHH2FWFFu2IlNh/view?usp=sharing)
 
 9. Download [WindowsEnv.rar (3.4GB)](https://drive.google.com/file/d/1PWpvccXYNvmfUPi5DwvK4KhtQazmFhf2/view?usp=sharing)
+
+10. Download [Equipment.rar (700MB)](https://drive.google.com/file/d/1bDPRlo2edVifbKV8K92s_rW18Uzcu7C5/view?usp=sharing)
 
