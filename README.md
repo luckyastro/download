@@ -1,4 +1,4 @@
-# Please download (Total 10 files, 30 GB)
+# Please download (Total 18 files, 5.13 GB)
 
 1. Download [ImageSearch.rar (214MB)](https://drive.google.com/file/d/1QN8J5Zy5BhhIxfg7tUMTqAFqf8unFlZh/view?usp=sharing)
 
